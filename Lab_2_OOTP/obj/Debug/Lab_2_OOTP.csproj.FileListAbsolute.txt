@@ -1,0 +1,59 @@
+C:\Users\myach\source\repos\Lab_2_OOTP\Lab_2_OOTP\bin\Debug\Lab_2_OOTP.exe.config
+C:\Users\myach\source\repos\Lab_2_OOTP\Lab_2_OOTP\bin\Debug\Lab_2_OOTP.exe
+C:\Users\myach\source\repos\Lab_2_OOTP\Lab_2_OOTP\bin\Debug\Lab_2_OOTP.pdb
+C:\Users\myach\source\repos\Lab_2_OOTP\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.csprojAssemblyReference.cache
+C:\Users\myach\source\repos\Lab_2_OOTP\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.Form1.resources
+C:\Users\myach\source\repos\Lab_2_OOTP\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.Properties.Resources.resources
+C:\Users\myach\source\repos\Lab_2_OOTP\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.csproj.GenerateResource.cache
+C:\Users\myach\source\repos\Lab_2_OOTP\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.csproj.CoreCompileInputs.cache
+C:\Users\myach\source\repos\Lab_2_OOTP\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.exe
+C:\Users\myach\source\repos\Lab_2_OOTP\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.pdb
+C:\Users\Lenovo\Desktop\Lab_2_OOTP\Lab_2_OOTP\bin\Debug\Lab_2_OOTP.exe.config
+C:\Users\Lenovo\Desktop\Lab_2_OOTP\Lab_2_OOTP\bin\Debug\Lab_2_OOTP.exe
+C:\Users\Lenovo\Desktop\Lab_2_OOTP\Lab_2_OOTP\bin\Debug\Lab_2_OOTP.pdb
+C:\Users\Lenovo\Desktop\Lab_2_OOTP\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Lab_2_OOTP\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.Form1.resources
+C:\Users\Lenovo\Desktop\Lab_2_OOTP\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Lab_2_OOTP\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Lab_2_OOTP\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Lab_2_OOTP\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.exe
+C:\Users\Lenovo\Desktop\Lab_2_OOTP\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.pdb
+D:\4 семестр\2 курс 2 семестр\ооп\lab2\Lab_2_OOTP\bin\Debug\Lab_2_OOTP.exe.config
+D:\4 семестр\2 курс 2 семестр\ооп\lab2\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.exe
+D:\4 семестр\2 курс 2 семестр\ооп\lab2\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.pdb
+D:\4 семестр\2 курс 2 семестр\ооп\lab2\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.Form1.resources
+D:\4 семестр\2 курс 2 семестр\ооп\lab2\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.Properties.Resources.resources
+D:\4 семестр\2 курс 2 семестр\ооп\lab2\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.csproj.GenerateResource.Cache
+D:\4 семестр\2 курс 2 семестр\ооп\lab2\Lab_2_OOTP\bin\Debug\Lab_2_OOTP.exe
+D:\4 семестр\2 курс 2 семестр\ооп\lab2\Lab_2_OOTP\bin\Debug\Lab_2_OOTP.pdb
+D:\4 семестр\2 курс 2 семестр\ооп\lab2\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.csprojAssemblyReference.cache
+D:\OOp\lab2\Lab_2_OOTP\bin\Debug\Lab_2_OOTP.exe.config
+D:\OOp\lab2\Lab_2_OOTP\bin\Debug\Lab_2_OOTP.exe
+D:\OOp\lab2\Lab_2_OOTP\bin\Debug\Lab_2_OOTP.pdb
+D:\OOp\lab2\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.csprojAssemblyReference.cache
+D:\OOp\lab2\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.Form1.resources
+D:\OOp\lab2\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.Properties.Resources.resources
+D:\OOp\lab2\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.csproj.GenerateResource.cache
+D:\OOp\lab2\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.csproj.CoreCompileInputs.cache
+D:\OOp\lab2\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.exe
+D:\OOp\lab2\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.pdb
+D:\OOp2\lab2\Lab_2_OOTP\bin\Debug\Lab_2_OOTP.exe.config
+D:\OOp2\lab2\Lab_2_OOTP\bin\Debug\Lab_2_OOTP.exe
+D:\OOp2\lab2\Lab_2_OOTP\bin\Debug\Lab_2_OOTP.pdb
+D:\OOp2\lab2\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.csprojAssemblyReference.cache
+D:\OOp2\lab2\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.Form1.resources
+D:\OOp2\lab2\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.Properties.Resources.resources
+D:\OOp2\lab2\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.csproj.GenerateResource.cache
+D:\OOp2\lab2\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.csproj.CoreCompileInputs.cache
+D:\OOp2\lab2\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.exe
+D:\OOp2\lab2\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.pdb
+D:\OOp3\lab2\Lab_2_OOTP\bin\Debug\Lab_2_OOTP.exe.config
+D:\OOp3\lab2\Lab_2_OOTP\bin\Debug\Lab_2_OOTP.exe
+D:\OOp3\lab2\Lab_2_OOTP\bin\Debug\Lab_2_OOTP.pdb
+D:\OOp3\lab2\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.csprojAssemblyReference.cache
+D:\OOp3\lab2\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.Form1.resources
+D:\OOp3\lab2\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.Properties.Resources.resources
+D:\OOp3\lab2\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.csproj.GenerateResource.cache
+D:\OOp3\lab2\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.csproj.CoreCompileInputs.cache
+D:\OOp3\lab2\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.exe
+D:\OOp3\lab2\Lab_2_OOTP\obj\Debug\Lab_2_OOTP.pdb
